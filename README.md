@@ -5,7 +5,7 @@
    [https://spoonicle.github.io/SUBMIT-STARVE-SACRIFICE/](https://spoonicle.github.io/SUBMIT-STARVE-SACRIFICE/)
  
 ## Artist Statement
-   [https://docs.google.com/document/d/1X0uYNIlDAr2Yxoh2xHR-86Sn_yNqjmaNplCkN4sFXew/edit?usp=sharing](url)
+   [Artist Statement](https://docs.google.com/document/d/1X0uYNIlDAr2Yxoh2xHR-86Sn_yNqjmaNplCkN4sFXew/edit?usp=sharing)
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v14 or higher recommended)
