@@ -1,0 +1,26 @@
+{
+  "name": "feed-them",
+  "version": "1.0.0",
+  "description": "A live server-hosted web page full of ASCII characters constantly changing every tick",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ascii",
+    "matrix",
+    "live-server",
+    "sse",
+    "websocket",
+    "canvas",
+    "retro",
+    "terminal"
+  ],
+  "author": "Antigravity AI",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}

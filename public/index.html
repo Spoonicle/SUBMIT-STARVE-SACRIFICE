@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SUBMIT STARVE SACRIFICE</title>
+  <meta name="description"
+    content="A live server-hosted web page full of constantly changing ASCII characters updating every tick.">
+
+  <!-- Typography Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&family=Outfit:wght@800;900&display=swap"
+    rel="stylesheet">
+
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body class="theme-white crt-enabled bloom-enabled">
+
+  <!-- Ambient Background Glow -->
+  <div class="ambient-glow"></div>
+
+  <!-- CRT Screen Overlay & Scanlines (Curvature Off) -->
+  <div id="crt-overlay" class="crt-overlay">
+    <div class="scanlines"></div>
+    <div class="vignette"></div>
+  </div>
+
+  <!-- Full-Screen Viewport Canvas Container -->
+  <main class="viewport-container" id="viewport-container">
+    <canvas id="ascii-canvas"></canvas>
+  </main>
+
+  <!-- Core JavaScript Engine & Key Listener -->
+  <script src="js/ascii-engine.js"></script>
+  <script src="js/app.js"></script>
+</body>
+
+</html>
