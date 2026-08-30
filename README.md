@@ -4,7 +4,7 @@ An interactive live server-hosted web visualizer featuring real-time Server-Sent
 ---
 
 ## Live Server
- [  https://spoonicle.github.io/SUBMIT-STARVE-SACRIFICE/](url)
+ [https://spoonicle.github.io/SUBMIT-STARVE-SACRIFICE/](url)
  
 ## Artist Statement
    [https://docs.google.com/document/d/1X0uYNIlDAr2Yxoh2xHR-86Sn_yNqjmaNplCkN4sFXew/edit?usp=sharing](url)
